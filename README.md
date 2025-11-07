@@ -1,4 +1,4 @@
-#house
+# house
 <h2>Alberga los repositorios y proyecto hechos por el usuario</h2>
 <img src="https://github.com/BryanGF-hg/house/blob/main/barra-decorativa.png" alt="barra-decorativa">
 
